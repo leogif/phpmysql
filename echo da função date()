@@ -1,0 +1,13 @@
+/* Echos da função date
+	h : 12 h4 format
+	H : 24 hr format
+	i : Minutes
+	s : Seconds
+	u : Microseconds
+	a : Lowercase am or pm
+	l : Full text for the day
+	F : Full text for the month
+	j : Day of the month 
+	S : Suffix for the day Saturday, Monday, etc
+	Y : 4 digitos y
+	*/
